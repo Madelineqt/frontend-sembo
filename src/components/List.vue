@@ -53,7 +53,7 @@ export default {
   methods:{
     getHotels: async function(){
       this.reset()
-      return axios.get("http://localhost:9000/api/hotels").then((response) => {
+      return axios.get(`${this.$protocol + this.$host}:${this.$port}/api/hotels`).then((response) => {
         console.log(response.data)
         this.hotels = response.data
         this.error = false
