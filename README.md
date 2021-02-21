@@ -1,24 +1,17 @@
 # frontend-sembo
 
-## Project setup
+## Setup application
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Deploy application
+### Runs application in development mode with hot-reload
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Minifies and compiles project for development mode
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
