@@ -1,6 +1,7 @@
 # frontend-sembo
 
 ## Setup application
+### Library download
 ```
 npm install
 ```
