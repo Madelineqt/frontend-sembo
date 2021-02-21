@@ -1,6 +1,7 @@
 # frontend-sembo
 
 ## Setup application
+You must have node and npm installed in your machine
 ### Library download
 ```
 npm install
