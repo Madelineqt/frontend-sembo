@@ -20,7 +20,7 @@ These parameters are for the API connection, default is API in localhost using h
 npm run serve
 ```
 
-### Minifies and compiles project for development mode in automatic port
+### Minifies and compiles project for development mode in port 5000, use parameter **--port** for custom port
 ```
 npm run build
 ```
