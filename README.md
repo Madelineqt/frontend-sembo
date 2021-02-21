@@ -7,12 +7,12 @@ npm install
 ```
 
 ## Deploy application
-### Runs application in development mode with hot-reload
+### Runs application in development mode with hot-reload in port 8080
 ```
 npm run serve
 ```
 
-### Minifies and compiles project for development mode
+### Minifies and compiles project for development mode in automatic port
 ```
 npm run build
 ```
